@@ -6,7 +6,6 @@ const baseUrl = 'https://api.openbrewerydb.org/breweries';
 
 export const displayBrewery = createAsyncThunk((DISPLAY_ITEM), async (id) => {
   const response = await axios.get(`${baseUrl}/${id}`);
-  console.log('data: ', response.data);
   return response.data;
 });
 
