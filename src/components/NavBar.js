@@ -3,15 +3,10 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => (
   <nav className="navBar">
-    <div className="brandNameBox">
-      <img className="navLogo" src="planet.png" alt="logo space" />
-      <h1 className="navTitle">Space Travelers Hub</h1>
-    </div>
-    <ul className="links">
-      <NavLink className="link" to="/">Rockets</NavLink>
-      <NavLink className="link" to="/missions">Missions</NavLink>
-      <NavLink className="link" to="/"></NavLink>
-    </ul>
+    {/* <img className="navLogo" src="planet.png" alt="logo space" /> */}
+    <h1 className="navTitle">The Brewer&apos;s Den</h1>
+    <NavLink className="link" to="/">Rockets</NavLink>
+    <NavLink className="link" to="/Details">Missions</NavLink>
   </nav>
 );
 
