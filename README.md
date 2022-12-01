@@ -1,4 +1,3 @@
-# 📖 [Covid 19 World Status] <a name="about-project"></a>
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -22,9 +21,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -56,11 +52,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Covid 19 World Status] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This application shows the covid-19 status per continent in terms of results per deaths, recoveries, cases total, active cases and tests done.
 
-**[your_project__name]** is a...
+**[Covid 19 World Status]** is a...
 
 ## 🛠 Built With <a name="built-with">
  - React.js
