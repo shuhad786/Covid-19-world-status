@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { IoArrowBackCircle } from 'react-icons/io5';
+import { useLocation } from 'react-router-dom';
 
 function DetailsPage() {
   const location = useLocation();
@@ -8,7 +7,7 @@ function DetailsPage() {
 
   return (
     <>
-      <Link to="/" className="arrow"><IoArrowBackCircle aria-label="Back Arrow" /></Link>
+      
       <div className="detailsCard">
         <h3 className="countriesTitle">{state.continent}</h3>
         <p className="cases">
