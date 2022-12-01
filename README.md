@@ -39,7 +39,7 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-Live demo: [Live link](https://inspiring-tulumba-f9e3e3.netlify.app)
+Live demo: [Live link](https://magenta-cocada-165f28.netlify.app/)
 
 
 👤 **Shuhad Loofer**

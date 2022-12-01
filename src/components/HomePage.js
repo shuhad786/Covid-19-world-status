@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
-import { IoArrowRedoOutline } from 'react-icons/io5';
+import { IoEllipsisHorizontal } from 'react-icons/io5';
 import { displayCountries } from '../redux/cards/allCardSlice';
 
 const Countries = () => {
@@ -33,7 +33,7 @@ const Countries = () => {
                 {item.updated}
               </p>
               <Link state={item} to="/DetailsPage">
-                <IoArrowRedoOutline className="fowardArrow" aria-label="to details" />
+                <IoEllipsisHorizontal className="fowardArrow" aria-label="to details" />
               </Link>
             </div>
           ))}
