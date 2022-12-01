@@ -7,7 +7,6 @@ function DetailsPage() {
 
   return (
     <>
-      
       <div className="detailsCard">
         <h3 className="countriesTitle">{state.continent}</h3>
         <p className="cases">

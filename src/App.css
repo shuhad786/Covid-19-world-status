@@ -73,6 +73,7 @@ html {
 
 .cases {
   font-size: 1.2em;
+  padding: 1em;
 }
 
 .fowardArrow {
@@ -94,9 +95,9 @@ html {
 }
 
 .arrow {
-  position: fixed;
-  right: 25px;
-  bottom: 10px;
+  position: relative;
+  right: 100px;
+  top: 10px;
   font-size: 3em;
   color: #5899e2;
 }
@@ -215,11 +216,11 @@ html {
   }
 
   .arrow {
-    position: fixed;
-    right: 25px;
-    bottom: 10px;
+    position: relative;
+    left: 5px;
+    top: 5px;
     font-size: 1.2em;
-    color: #5899e2;
+    color: black;
   }
 
   .countriesTitle {
