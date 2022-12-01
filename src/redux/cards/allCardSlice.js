@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-const DISPLAY_ALL = 'brewery/missions/DISPLAY_ALL';
+const DISPLAY_ALL = 'continents/missions/DISPLAY_ALL';
 const continentsUrl = 'https://disease.sh/v3/covid-19/continents';
 
 export const displayCountries = createAsyncThunk((DISPLAY_ALL), async () => {
