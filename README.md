@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -23,9 +21,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -57,13 +52,20 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Covid 19 World Status] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This application shows the covid-19 status per continent in terms of results per deaths, recoveries, cases total, active cases and tests done.
 
-**[your_project__name]** is a...
+**[Covid 19 World Status]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">
+ - React.js
+ - Redux.js
+ - React/Redux.toolkit.js
+ - Jest testing environment
+ - JSX (es6)
+ - CSS3
+</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -108,7 +110,9 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://resilient-chimera-530486.netlify.app)
+
+- [Watch Demo](https://www.loom.com/share/06fac15b41c24eebb8b9d6a204e9020c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,13 +120,22 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> Go to the repository and clone it into your VS code.
+- Open the cloned folder from your local machine inside VS code.
+- Make sure you checkout to the "dev" branch.
+- Open your terminal and run the command "npm i"
+- Once you have finished, run the command "npm start"
+- The application will be started in your browser in the localhost:port(3000) 
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+
+- Node.js installed
+- GitHub account
+- VS code installed
 
 <!--
 Example command:
@@ -198,21 +211,12 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Shuhad Loofer**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Shuhad786)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shuhad-loofer/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
