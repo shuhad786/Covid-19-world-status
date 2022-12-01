@@ -1,5 +1,5 @@
 {
-  "name": "deletethis",
+  "name": "Covid 19 World Status",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,6 +21,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.4.2",
     "stylelint-csstree-validator": "^2.0.0",
+    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -28,6 +29,9 @@
     "build": "react-scripts build",
     "test": "jest --transformIgnorePatterns \"node_modules/(?!axios)/\"",
     "eject": "react-scripts eject"
+  },
+  "jest":{
+    "testEnvironment": "jsdom"
   },
   "eslintConfig": {
     "extends": [

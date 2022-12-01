@@ -1,4 +1,4 @@
-# 📖 [Space Travelers' Hub] <a name="about-project"></a>
+# 📖 [Covid 19 World Status] <a name="about-project"></a>
 
 > This project is a group assignment whereby we use 2 APIs to display information to the UI, which the user can view and interact with.
 Welcome to the Space Travelers' Hub, the only place where you can apply for missions into space, here we allow you to view the various missions that are available and reserved a rocket/rockets of your choice using our User Interface under your very own Profile, why book today and help mankind explore deep into the universe.
