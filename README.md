@@ -41,6 +41,8 @@ To run tests, run the following command:
 
 Live demo: [Live link](https://resilient-chimera-530486.netlify.app)
 
+Watch me explain the demo: [Live link](https://www.loom.com/share/06fac15b41c24eebb8b9d6a204e9020c)
+
 
 👤 **Shuhad Loofer**
 
